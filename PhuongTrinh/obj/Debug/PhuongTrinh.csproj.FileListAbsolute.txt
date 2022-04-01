@@ -1,0 +1,10 @@
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan20220228\LapTrinhCanBan1\PhuongTrinh\bin\Debug\PhuongTrinh.exe.config
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan20220228\LapTrinhCanBan1\PhuongTrinh\bin\Debug\PhuongTrinh.exe
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan20220228\LapTrinhCanBan1\PhuongTrinh\bin\Debug\PhuongTrinh.pdb
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan20220228\LapTrinhCanBan1\PhuongTrinh\obj\Debug\PhuongTrinh.csprojAssemblyReference.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan20220228\LapTrinhCanBan1\PhuongTrinh\obj\Debug\PhuongTrinh.Form1.resources
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan20220228\LapTrinhCanBan1\PhuongTrinh\obj\Debug\PhuongTrinh.Properties.Resources.resources
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan20220228\LapTrinhCanBan1\PhuongTrinh\obj\Debug\PhuongTrinh.csproj.GenerateResource.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan20220228\LapTrinhCanBan1\PhuongTrinh\obj\Debug\PhuongTrinh.csproj.CoreCompileInputs.cache
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan20220228\LapTrinhCanBan1\PhuongTrinh\obj\Debug\PhuongTrinh.exe
+C:\Users\NN\Documents\GitHub\LapTrinhCanBan20220228\LapTrinhCanBan1\PhuongTrinh\obj\Debug\PhuongTrinh.pdb

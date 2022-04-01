@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ToanTuSoSanh/1.0.0": {
+        "runtime": {
+          "ToanTuSoSanh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToanTuSoSanh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
